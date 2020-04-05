@@ -27,3 +27,4 @@ def draw(l):
         t.rt(angle)
 setup()
 draw(100)
+Screen().update()
